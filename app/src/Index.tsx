@@ -273,7 +273,7 @@ export default function Header() {
             transition={{ delay: 0.1, duration: 0.6 }}
             className="text-4xl sm:text-5xl lg:text-6xl font-medium tracking-tight text-[#1A191E] max-w-4xl mx-auto leading-[1.1]"
           >
-            Discover Patient-Centered Health Consultation Services <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#7C3AED] to-indigo-600">Anytime, Anywhere</span>
+            Discover Patient-Centered Health Consultation Services <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#7C3AED] to-indigo-600">ELISABETH</span>
           </motion.h1>
 
           {/* Subtitle description */}
