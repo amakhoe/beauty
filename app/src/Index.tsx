@@ -32,7 +32,7 @@ import BookingModal from '../components/BookingModal';
 import DoctorDetailModal from '../components/DoctorDetailModal';
 import MyBookingsDrawer from '../components/MyBookingsDrawer';
 import Image from 'next/image';
-import Bg1 from '@/Images/IMG_20250519_161508.jpg';
+import Bg1 from '@/Images/ashkan-forouzani-DPEPYPBZpB8-unsplash.jpg';
 
 export default function Header() {
   // Navigation & Menu States
