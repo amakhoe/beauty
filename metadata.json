@@ -1,0 +1,6 @@
+{
+  "name": "Ngobati",
+  "description": "Discover Patient-Centered Health Consultation Services Anytime, Anywhere. Replicating Ngobati Premium Healthcare Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
